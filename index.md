@@ -17,7 +17,7 @@ permalink: index.html
 {
   name: "Bilawal Hameed",
   shirtSize: "L",
-  github: "http://github.com/bih",
+  github: "https://github.com/bih",
   skills: ["JavaScript", "Ruby", "HTML", "CSS"]
   // and more :)
   // hint: try using hackone on this page
@@ -37,7 +37,7 @@ permalink: index.html
 		<div id="center">	
 			<p>Just copy the code below to your site and use the extension.</p>
 
-			<a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='http://hackone-demos.glitch.me/index.html' title='Click for demo'>
+			<a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/index.html' title='Click for demo'>
 				<pre><div class="name">JavaScript - <u>Click for Demo</u></div><code data-language="html">document.addEventListener("hackone:get", function(e){
   var user = e.detail.json;
   console.log("Hi, " + user.bio.firstName);
@@ -46,7 +46,7 @@ permalink: index.html
 
 			<br />
 
-			<a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='http://hackone-demos.glitch.me/autocomplete.html' title='Click for demo'>
+			<a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/autocomplete.html' title='Click for demo'>
 				<pre><div class="name">HTML (without JavaScript) - <u>Click for Demo</u></div><code data-language="html"><input type="text" data-hackone="bio.firstName" /></code></pre>
 			</a>
 		</div>

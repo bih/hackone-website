@@ -1,0 +1,91 @@
+
+{
+    "username": "bilawalhameed",
+    "email": "11026592@stu.mmu.ac.uk",
+    "lastUpdated": "Sun, 31 Aug 2014 21:55:43 GMT",
+    "bio": {
+        "firstName": "Bilawal",
+        "lastName": "Hameed",
+        "gender": "male",
+        "email": "11026592@stu.mmu.ac.uk",
+        "phone": "+447000800900",
+        "dietaryRestrictions": "None",
+        "summary": "Maybe a couple sentences. I'm a software engineer and entrepreneur.",
+        "location": {
+            "city": "Manchester",
+            "countryCode": "GB",
+            "region": "Greater Manchester",
+            "state": ""
+        },
+        "websites": {
+            "personal": "http://bilaw.al",
+            "facebook": "https://www.facebook.com/home.pp",
+            "twitter": "http://twitter.com/bilawalhameed",
+            "github": "http://github.com/bih",
+            "linkedin": "http://www.linkedin.com/in/bilawalhameed",
+            "dribbble": "",
+            "blog": "http://bilaw.al"
+        },
+
+        "resume": "<linktoyourresume>",
+        "picture": ""
+    },
+    "education": [
+        {
+            "institution": "Manchester Metropolitan University",
+            "areas": [
+                "Computer Science"
+            ],
+            "studyType": "Bachelor's",
+            "start": "2011",
+            "end": "2015"
+        }
+    ],
+    "work": [
+        {
+            "company": "Example Company",
+            "position": "Software Engineering Intern",
+            "start": "May 2012",
+            "end": "September 2012",
+            "description": "Helped them build X and improve X over the summer."
+        }
+    ],
+    "hackathons": [
+        {
+            "name": "Yo NYC Hackathon",
+            "season": "Summer",
+            "year": "2014",
+            "awards": [
+                "Judge's Choice",
+                "Most Popular"
+            ],
+            "project": {
+                "name": "YoAuth",
+                "link": "http://yoauth.herokuapp.com",
+                "image": "http://yoauth.herokuapp.com/logo.png",
+                "repository": "http://github.com/bih/yoauth",
+                "description": "A simple authentication platform built on Yo",
+                "technologies": [
+                    "Javascript",
+                    "HTML5",
+                    "Node.js",
+                    "Socket.IO"
+                ]
+            }
+        }
+    ],
+    "projects": [
+        {
+            "name": "jquery.markdown.js",
+            "description": "A simple Markdown editor written in JavaScript",
+            "link": "http://github.com/bih/jquery.markdown.js",
+            "image": ""
+        }
+    ],
+    "skills": [
+        "Javascript",
+        "Ruby",
+        "HTML",
+        "CSS"
+    ]
+}

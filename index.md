@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HackOne -- Sign up for hackathons instantly
+title: HackOne - Sign up for hackathons instantly, through Google Chrome
 permalink: index.html
 ---
 

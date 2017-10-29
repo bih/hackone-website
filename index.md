@@ -22,12 +22,12 @@ permalink: index.html
   // hint: try using hackone on this page
 }</code></pre>
 
-    <p style="display: none"><a href="https://chrome.google.com/webstore/detail/hackone/ochbpomnongmncmgifkdbmcjfeekfghm" target="_blank" class="download-for-chrome">Download pre-alpha for Google Chrome</a></p>
+    <p style="display: none"><a href="https://chrome.google.com/webstore/detail/hackone/ochbpomnongmncmgifkdbmcjfeekfghm" target="_blank" class="download-for-chrome">Install the pre-alpha for Google Chrome</a></p>
   </section>
 </div>
 
 <div id="integrate" class="fourth-page">
-  <h1>Integrate HackOne <strong>with only 3 lines of code.</strong></h1>
+  <h1>Integrate HackOne <strong>with only 4 lines of code.</strong></h1>
   <div id="clear"></div>
 
   <div id="holder">

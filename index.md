@@ -34,14 +34,14 @@ permalink: index.html
     <div id="center">
       <p>Just copy the code below to your site and use the extension.</p>
 
-      <a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/index.html' title='Click for demo'><pre><div class="name">JavaScript - <u>Click for Demo</u></div><code data-language="html">document.addEventListener("hackone:onUserDataShared", function(e){
+      <a style='width: 100%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/index.html' title='Click for demo'><pre><div class="name">JavaScript - <u>Click for Demo</u></div><code data-language="html">document.addEventListener("hackone:onUserDataReceived", function (e) {
   var user = e.detail.userData;
   console.log("Hi, " + user.bio.firstName);
 });</code></pre></a>
 
       <br />
 
-      <a style='width: 90%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/autocomplete.html' title='Click for demo'><pre><div class="name">HTML (without JavaScript) - <u>Click for Demo</u></div><code data-language="html"><input type="text" data-hackone="bio.firstName" /></code></pre></a>
+      <a style='width: 100%; margin: 0 auto; display: block; text-decoration: none' href='https://hackone-demos.glitch.me/autocomplete.html' title='Click for demo'><pre><div class="name">HTML (without JavaScript) - <u>Click for Demo</u></div><code data-language="html"><input type="text" data-hackone="bio.firstName" /></code></pre></a>
     </div>
   </div>
 </div>

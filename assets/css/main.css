@@ -40,7 +40,7 @@ html, body, input, textarea, button { font-family: -apple-system, BlinkMacSystem
 .fourth-page pre { padding: 0; margin: 0; text-align: left; }
 .fourth-page pre .name { background: #fff; color: #9726DE; margin-left: 20px; display: inline-block; padding: 5px 5px 0 5px; border-radius: 5px 5px 0 0; -moz-border-radius: 5px 5px 0 0; -o-border-radius: 5px 5px 0 0; -ms-border-radius: 5px 5px 0 0; }
 .fourth-page code { text-align: left; width: 100%; display: block; overflow: auto; background: #fff; color: #9726DE; padding: 15px 20px; border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; }
-.fourth-page code { font-family: 'Menlo', 'Inconsolata', 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', 'Verdana', 'Times New Roman'; font-size: 14px; }
+.fourth-page code { font-family: 'Menlo', 'Inconsolata', 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', 'Verdana', 'Times New Roman'; font-size: 13px; }
 .fourth-page code span { line-height: 24px; }
 .fourth-page p { font-size: 18px; font-weight: 200; line-height: 30px; padding-bottom: 34px; color: #333; }
 .fourth-page p a { color: #333; text-decoration: none; }

@@ -22,7 +22,7 @@ html, body, input, textarea, button { font-family: -apple-system, BlinkMacSystem
 .first-page #headline h2 { font-size: 26px; font-weight: 200; color: #333; line-height: 66px; }
 
 .first-page #headline pre { padding: 0; }
-.first-page #headline code { text-align: left; width: 500px; display: inline-block; background: #333; color: #ddd; padding: 0 30px; margin-top: 40px; border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; }
+.first-page #headline code { text-align: left; display: inline-block; background: #333; color: #ddd; padding: 15px 150px 15px 20px; margin-top: 40px; border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -ms-border-radius: 5px; }
 .first-page #headline code { font-family: 'Menlo', 'Inconsolata', 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', 'Verdana', 'Times New Roman'; font-size: 14px; }
 .first-page #headline code span { line-height: 24px; }
 

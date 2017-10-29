@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+{% include head.html %}
+</head>
+<body>
+{{ page.content }}
+
+{% include footer.html %}
+{% include github-flag.html %}
+{% include scripts.html %}
+</body>
+</html>

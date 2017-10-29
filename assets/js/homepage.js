@@ -7,8 +7,8 @@ $(document).ready(function(){
     });
   });
 
-  document.addEventListener("hackone:get", function(e){
-    var user = e.detail.json;
+  document.addEventListener("hackone:onUserDataReceived", function(e){
+    var user = e.detail.userData;
     var name = (user.bio.firstName.length > 0 && user.bio.lastName.length > 0) ? user.bio.firstName + " " + user.bio.lastName : user.username;
 
     $("#result span.string:eq(0)").text("\"" + name + "\"");
